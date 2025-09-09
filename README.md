@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá, rede! Sou a Thaiz Sousa Amorim!
 
-<!--
-**thaizSousa/thaizSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Cibersegurança. Trazendo mais de 8 anos de experiência em Atendimento e Vendas para minha transição para a área de TI.
 
-Here are some ideas to get you started:
+🚀 Amando explorar este novo universo da tecnologia e apaixonada por como ela pode transformar o mundo e solucionar problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Atualmente aprendendo:
+
+JavaScript GitHub 
+
+
+## 🔗 Conecte-se comigo:
+
+[LinkedIn](https://www.linkedin.com/in/thaizamorim/)
+
+⭐ Estou animada e disposta a me desafiar, mergulhando de cabeça no aprendizado de novas linguagens de programação, tecnologias e inovações como a Inteligência Artificial.
